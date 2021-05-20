@@ -2,7 +2,6 @@
 @import "utilities";
 @import "config";
 
-
 * {
   box-sizing: border-box;
   margin: 0;
@@ -67,12 +66,6 @@ a {
     }
   }
 }
-
-// _utilities.scss
-
-
- 
-
 
 // Margin & padding classes
 $spaceamounts: (1,2,3,4,5);
